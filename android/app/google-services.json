@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695453271901",
+    "project_id": "game-on-chat-forum",
+    "storage_bucket": "game-on-chat-forum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695453271901:android:5437e660e3b0d2a6bc0ab4",
+        "android_client_info": {
+          "package_name": "com.saisrivatsa81.game_on"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695453271901-c8gj756gcra4icsa8m4q9h8sunq1q4k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-ZCikzyFAZB4KbU15MDlzLe_mRWhWeIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695453271901-c8gj756gcra4icsa8m4q9h8sunq1q4k3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
